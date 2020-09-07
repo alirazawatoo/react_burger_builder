@@ -1,0 +1,12 @@
+.CancelButton {
+	float: right;
+  background: #cf8f2e;
+  padding: 6px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.OrderHeading {
+	font-size: 20px;
+  font-weight: bold;
+}
